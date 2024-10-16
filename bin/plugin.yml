@@ -1,0 +1,5 @@
+name: AmbientSounds
+main: ru.hofwq.ambientsounds.AmbientSounds
+version: 1.0
+author: hofwq
+api-version: 1.16
